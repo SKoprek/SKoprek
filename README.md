@@ -2,7 +2,7 @@
 <!--  -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![SKoprek's GitHub stats](https://github-readme-stats.vercel.app/api?username=skoprek)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=skoprek&show_icons=true&theme=transparent"/>
 
 
 
