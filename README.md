@@ -1,4 +1,10 @@
 ### Hi there 👋
+<!--  -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+[![SKoprek's GitHub stats](https://github-readme-stats.vercel.app/api?username=skoprek)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **SKoprek/SKoprek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
