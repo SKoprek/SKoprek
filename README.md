@@ -1,16 +1,16 @@
 ### Hi there 👋
 <!--  -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <img alt="stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=skoprek&show_icons=true&theme=transparent"/> -->
-<!-- <img alt="top_language" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skoprek&show_icons=true&theme=transparent&layout=compact"/> -->
-<img alt="top_language" align="left" width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SKoprek&langs_count=10&layout=compact&theme=dark#gh-dark-mode-only"/>
-<!-- <img alt="stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=skoprek&show_icons=true&theme=transparent"/> -->
-<img alt="stats" align="left" width="40%" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=skoprek&layout=compact&langs_count=25&hide=Text,Other,GitIgnore%20file,reStructuredText,Requirements.txt,Markdown,textmate,Git,INI,TSConfig,Git%20Config,.env%20file&theme=dark#gh-dark-mode-only"/>
+<!-- <img alt="stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=WilkDev&show_icons=true&theme=transparent"/> -->
+<!-- <img alt="top_language" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilkDev&show_icons=true&theme=transparent&layout=compact"/> -->
+<img alt="top_language" align="left" width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WilkDev&langs_count=10&layout=compact&theme=dark#gh-dark-mode-only"/>
+<!-- <img alt="stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=WilkDev&show_icons=true&theme=transparent"/> -->
+<img alt="stats" align="left" width="40%" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=WilkDev&layout=compact&langs_count=25&hide=Text,Other,GitIgnore%20file,reStructuredText,Requirements.txt,Markdown,textmate,Git,INI,TSConfig,Git%20Config,.env%20file&theme=dark#gh-dark-mode-only"/>
 
 
 
 <!--
-**SKoprek/SKoprek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WilkDev/WilkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
